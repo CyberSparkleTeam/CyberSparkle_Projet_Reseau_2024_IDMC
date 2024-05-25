@@ -1,0 +1,51 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/src/main/java:/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cybersparkle 1.0 API'
+-use
+-version
+-windowtitle
+'cybersparkle 1.0 API'
+m1miage.cybersparkle
+m1miage.cybersparkle.enums
+m1miage.cybersparkle.exception
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/src/main/java/.DS_Store = 1716635725596
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/src/main/java = 1716635725595
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/target/generated-sources/annotations = 1716646854880
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/tag-search-index.js = 1716646856298
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/overview-tree.html = 1716646856287
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/module-search-index.js = 1716646856297
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/index.html = 1716646856288
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/package-search-index.js = 1716646856297
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/link.svg = 1716646856309
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/serialized-form.html = 1716646856268
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/index-all.html = 1716646856304
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/allpackages-index.html = 1716646856297
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/member-search-index.js = 1716646856298
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/copy.svg = 1716646856308
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/script.js = 1716646856308
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/stylesheet.css = 1716646856308
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/search-page.js = 1716646856310
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/overview-summary.html = 1716646856305
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/help-doc.html = 1716646856306
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/element-list = 1716646856252
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/search.html = 1716646856304
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/allclasses-index.html = 1716646856296
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/type-search-index.js = 1716646856298
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/CyberSparkle/javadoc/apidocs/search.js = 1716646856310
